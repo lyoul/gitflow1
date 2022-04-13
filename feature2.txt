@@ -4,3 +4,5 @@ modify hotfix2
 modify hotfix3
 modify release0.0.4 bugfix
 test issue commit
+test rebase 1
+
